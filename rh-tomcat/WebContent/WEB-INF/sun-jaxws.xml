@@ -1,0 +1,5 @@
+<endpoints xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime" version="2.0">  
+   <endpoint name="candidatos" 
+   		implementation="br.com.rh.service.ServicoCandidatos"
+   				url-pattern="/candidatos" />
+</endpoints>  
